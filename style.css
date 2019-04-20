@@ -1,0 +1,158 @@
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    color: black;
+    background-color: lightblue;
+}
+div.bacgrodund3 {
+    max-width: 1100px;
+    height: auto;
+    margin: 0 auto 0 auto;
+    background-color: blue;
+}
+div.bacgrodund2 {
+    max-width: 1050px;
+    height: auto;
+    margin: 0 auto 0 auto;
+    background-color: mediumblue;
+}
+div.bacgrodund1 {
+    max-width: 1000px;
+    height: auto;
+    margin: 0 auto 0 auto;
+    background-color: lightskyblue;
+}
+selection {
+    width: 1000px;
+    margin: 0 auto 0 auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding: 0 20px;
+}
+div.container {
+    max-width: 1000px;
+    height: auto;
+    margin: 0 auto 0 auto;
+    background-color: lightskyblue;
+}
+div.container_header {
+    max-width: 1000px;
+    height: auto;
+    margin: 0 auto 0 auto;
+    background-color: lightskyblue;
+}
+header {
+    max-width: 1000px;
+    margin: 0 auto 0 auto;
+    background-color: white;
+}
+    header img {
+        width: 100%;
+        height: 500px;
+        display: block;
+    }
+nav {
+    background-color: mediumslateblue;
+    width: 1000px;
+    margin: 0 auto 0 auto;
+}
+a.nav {
+    display: inline-block;
+    width: 19%;
+    padding: 15px 30px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+a.nav:hover {
+    background-color: darkblue;
+    cursor: pointer;
+}
+.active {
+    background-color: mediumslateblue;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+div p {
+    color: white;
+}
+div.container1 {
+    max-width: 1000px;
+    height: 550px;
+    margin: 0 auto 0 auto;
+    background-color: lightskyblue;
+}
+div img {
+    width: 100%;
+    height: 400px;
+    display: block;
+}
+article {
+    width: 1000px;
+    margin: 0 auto 0 auto;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    padding: 0 20px;
+}
+p.tekst {
+   padding-right: 100px;
+}
+img.left {
+    float: left;
+    padding: 5px;
+    width: 400px;
+    border-radius: 50%;
+}
+div.oferta1 {
+    display: inline-block;
+    width: 18%;
+    padding-left: 0;
+    padding-top: 0;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+div.oferta_header {
+    background-color: blue;
+    border: double;
+    border-color: darkblue;
+}
+div.oferta_cena {
+    background-color: blue;
+    border: double;
+    border-color: darkblue;
+}
+#border {
+    border: double;
+    border-color: darkblue;
+}
+div.a {
+    display: inline-block;
+    width: 40%;
+    padding: 15px 30px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+a.phone {
+    color: blue;
+}
+a.mail {
+    color: blue;
+}
+iframe {
+    margin-top: 20px;
+    width: 100%;
+}
+
